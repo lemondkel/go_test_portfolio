@@ -1,0 +1,17 @@
+.typed {
+	line-height: 31px;
+	font-size: 26px;
+}
+
+.itemList > div {
+	margin: 20px 0;
+}
+
+a.site {
+	color: #4987ed;
+	font-weight: 700;
+}
+
+a.site:hover {
+	opacity: 0.7;
+}
